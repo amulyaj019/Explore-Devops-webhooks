@@ -1,0 +1,4 @@
+hi i installed the git software
+then i have initialized the repostory
+now i want to test .git file is existed or not
+
